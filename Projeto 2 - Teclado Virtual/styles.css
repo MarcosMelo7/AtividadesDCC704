@@ -1,0 +1,65 @@
+
+  .container {
+    position: relative;
+    text-align: center;
+    top: 150px;
+  }
+  
+  .keyboard {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: 10px;
+    display: inline-block;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .keyboard-row {
+    margin: 5px 0;
+  }
+  
+  .key {
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .key.space {
+    width: 160px;
+  }
+  
+  .key.capslock {
+    position: relative;
+    top: -1px;
+    font-size: 13px;
+    width: 80px;
+    height: 40px;
+  }
+  
+  .key.enter {
+    width: 80px;
+  }
+  
+  .key:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .key.backspace {
+    
+    position: relative;
+    top: 4px;
+    width: 90px;
+    height: 40px;
+  }
+
+  .key.backspace img{
+    position: relative;
+    top: 3px;
+    width: 25px;
+    height: 25px;
+  }
