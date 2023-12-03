@@ -1,6 +1,8 @@
 Salve professor, não quis enrolar muito no vídeo, porém me esforcei ao maximo para efetuar o projeto pois preciso desta materia pois tenho o intuito de me formar no proximo semestre ja. Desde já, obrigado.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Eu renomeei a pasta que fica neste caminho: Leilão de Centavos - Trabalho Final\src\app\api\auth, estava "[...nextauth]" alterei para "nextauth", pois estava dando problema para subir ao github.
+
+this is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
