@@ -1,4 +1,4 @@
-Salve professor, não quis enrolar muito no vídeo, porém me esforcei ao maximo para efetuar o projeto pois preciso desta materia em razão de que tenho o intuito de me formar no proximo semestre ja. Desde já, obrigado.
+Salve professor, não quis enrolar muito no vídeo, porém me esforcei ao maximo para efetuar o projeto pois preciso desta materia em razão de que tenho o intuito de me formar no proximo semestre. Desde já, obrigado.
 
 Eu renomeei a pasta que fica neste caminho: Leilão de Centavos - Trabalho Final\src\app\api\auth, estava "[...nextauth]" alterei para "nextauth", pois estava dando problema para subir ao github.
 
